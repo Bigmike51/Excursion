@@ -1,0 +1,16 @@
+h1 {
+  color: white;
+  font-size: 50px;
+  font-weight: normal;
+  font-family: normal;
+  text-align: center;
+}
+  .cta {
+    color: Aquamarine;
+    font-size: 16px;
+  }
+
+body {
+  background-color: black;
+  text-align: center;
+}
